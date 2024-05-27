@@ -1,8 +1,4 @@
-﻿//String name = Console.ReadLine();
-//int age = int.Parse(Console.ReadLine());
-//Print(name, age);
-
-Test();
+﻿Test();
 
 void Test()
 {
